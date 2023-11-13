@@ -21,7 +21,7 @@ These instructions will get you to setup the project, install sdk and add packag
 1.  Install .net SDK 7<br>
 [Download .NET SDK here.](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
 2.  Create new Web API's project<br>
-`dotnet new webapi –name API`
+`dotnet new webapi –-name API`
 3.  Add package
      - Entity Framework Core 7.0.13<br>
        `dotnet add package Microsoft.EntityFrameworkCore -v 7.0.13`<br>
